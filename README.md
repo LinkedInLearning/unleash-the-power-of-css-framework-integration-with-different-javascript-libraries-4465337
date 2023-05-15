@@ -1,7 +1,6 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Unleash the Power of CSS Framework Integration with Different JavaScript Libraries
 
-![course-name-alt-text][lil-thumbnail-url] 
+This is the repository for the LinkedIn Learning course `Unleash the Power of CSS Framework Integration with Different JavaScript Libraries`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
