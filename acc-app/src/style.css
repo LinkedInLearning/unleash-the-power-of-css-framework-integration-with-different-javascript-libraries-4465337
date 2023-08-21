@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.txt-font {
+    color: #497001
+}
+
+.bg {
+    background-color: #497001;
+}
