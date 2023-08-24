@@ -1,18 +1,19 @@
+import person from './assets/person.png'
 
 function App() {
   return (
     <div className="column is-4">
       <div className="card">
         <div className="card-image">
-          <figure className="image is-4by3">
-            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" />
+          <figure className="image is-4by4">
+            <img src={person} alt="Placeholder image" />
           </figure>
         </div>
         <div className="card-content">
           <div className="media">
             <div className="media-left">
               <figure className="image is-48x48">
-                <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image" />
+                <img src={person} alt="Placeholder image" />
               </figure>
             </div>
             <div className="media-content ml-3">
