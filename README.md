@@ -2,6 +2,10 @@
 
 This is the repository for the LinkedIn Learning course `Unleash the Power of CSS Framework Integration with Different JavaScript Libraries`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![Unleash the Power of CSS Framework Integration with Different JavaScript Libraries][lil-thumbnail-url] 
+
+CSS frameworks and JavaScript libraries can both improve the quality of your web applications, but when you integrate them, you unlock even more potential! In this course, software engineer and a technical support specialist Ayodele Leom guides you through topics including selecting the different CSS frameworks and JavaScript libraries, integrating the CSS framework with the JavaScript library, utilizing the CSS framework component with the selected JavaScript library, creating custom styles and functionality with CSS and JavaScript. Plus, he includes several examples of real-world projects. As you build up the skills in this course, you can remain competitive in a rapidly evolving industry, improve the quality of the web applications you create, and increase your marketability to potential employers. 
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -21,15 +25,9 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFj3AxAHc0Ztw/learning-public-crop_675_1200/0/1697494377198?e=2147483647&v=beta&t=sRCncar1DaiksGtucH-KqDMdC0SUFG42FHuxS9gCwmM
 
